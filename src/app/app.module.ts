@@ -10,6 +10,7 @@ import { WelcomeComponent } from './welcome/welcome.component';
 
 import { Routes, RouterModule } from '@angular/router';
 import { AuthInterceptor } from './auth.interceptor';
+import { GithublinkComponent } from './githublink/githublink.component';
 
 const appRoutes: Routes = [
   { path: '', component: LoginComponent },
@@ -24,7 +25,8 @@ const appRoutes: Routes = [
     AppComponent,
     LoginComponent,
     SignupComponent,
-    WelcomeComponent
+    WelcomeComponent,
+    GithublinkComponent
   ],
   imports: [
     BrowserModule,
