@@ -1,4 +1,4 @@
-# BusyqaCrm1LoginFunctionFe0Initial
+# Busyqa CRM Login Function Front End Angular app
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.5.
 
